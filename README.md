@@ -1,18 +1,55 @@
-# 💫 About Me:
-💻 Web Developer passionate about creating modern, responsive, and user-friendly websites.<br>🌐 Skilled in HTML, CSS & JavaScript, with a focus on clean and structured code.<br>🎨 Interested in UI/UX design, animations, responsive layouts, and professional web interfaces.<br>🛠️ Working with development tools like VS Code, Git & GitHub to build and manage projects.<br>🚀 Continuously learning new technologies and building real-world projects to grow as a professional developer
+<h1 data-importer="text" align="left">Hey 👋 i'm Shaik Ahamed</h1>
 
+###
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anasahmmed01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anasahamed5614@gmail.com) 
+<p data-importer="text" align="left">im a web developer</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ShaikAhamed-01&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ShaikAhamed-01&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ShaikAhamed-01&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+###
 
----
-[![](https://komarev.com/ghpvc/?username=ShaikAhamed-01&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2 data-importer="text" align="left">About me</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<p data-importer="text" align="left">* 🚀 **Passionate Web Developer** focused on creating modern, responsive, and user-friendly websites.<br>* 💻 **Skilled in HTML, CSS, JavaScript, and Python**, with a strong interest in full-stack development.<br>* 🎨 **Creative & Detail-Oriented** — I enjoy turning ideas and designs into clean, functional web experiences.<br>* 📚 **Continuous Learner** — constantly improving my coding skills and exploring new technologies.<br>* 🎯 **Goal-Oriented Developer** committed to building real-world projects and growing professionally in the IT industry.</p>
+
+###
+
+<h2 data-importer="text" align="left">I love to use</h2>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+</div>
+
+###
+
+<p data-importer="text" align="left">My refer items 🥇</p>
+
+###
+
+<div data-importer="socials" align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
+
+###
